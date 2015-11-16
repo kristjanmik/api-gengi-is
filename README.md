@@ -1,5 +1,6 @@
 api-gengi-is
-============
+========
+Note: This is legacy code, running at [api.gengi.is/v1](http://api.gengi.is/v1)
 
 ## Author
 
